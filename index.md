@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Interactive Room Display | Codrops</title>
+    <title>LiVi Lite Prototpye</title>
     <meta name="description" content="An experimental interactive room slideshow based on the prototype concept by Bilal Mechairia's Dribbble shot 'Spaces'" />
     <meta name="keywords" content="room, slideshow, 3d, perspective, animation, css, javascript, web development" />
     <meta name="author" content="Codrops" />
