@@ -168,7 +168,7 @@
 /* Scene element */
 
 .scene {
-    height: 600px;
+    height: 900px;
     margin: 0 auto;
     -webkit-transform-style: preserve-3d;
     transform-style: preserve-3d;
